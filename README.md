@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Electric Vehicle Sales Analysis – India 🚗⚡
 
 ## 📌 Objective
@@ -33,3 +34,4 @@ Electric Vehicle Sales by State in India (CSV format)
 
 ## 👤 Author
 Rishabh Jaiswal
+
